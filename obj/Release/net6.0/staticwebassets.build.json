@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "lWb9zumXN+1vUBNrbsQsAl8Q5mhijyH/3ggl29Vbdu4=",
+  "Source": "CreateFactor",
+  "BasePath": "_content/CreateFactor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CreateFactor\\wwwroot",
+      "Source": "CreateFactor",
+      "ContentRoot": "C:\\Users\\Moslem\\source\\repos\\CreateFactor\\CreateFactor\\wwwroot\\",
+      "BasePath": "_content/CreateFactor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

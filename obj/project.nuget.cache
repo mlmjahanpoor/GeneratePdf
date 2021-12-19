@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qYl5YALRVtX3yDj7puA71CQrHCuyj/Gw+Oue8eXAPnbQZvtTcz6tnljBl2251FEWpHh5nCAONkfHsI5/kPOQ8A==",
+  "dgSpecHash": "qhIbgQwszHTnMqLwaXdoru6AcvZl6/vE5FnVk+2z+Lg8QyqLxjkDStW1bYmUuLrQYXMtJKRJBUvJUt9wdlhqeA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Moslem\\source\\repos\\CreateFactor\\CreateFactor\\CreateFactor.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\Moslem\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
     "C:\\Users\\Moslem\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Moslem\\.nuget\\packages\\microsoft.win32.registry\\4.6.0\\microsoft.win32.registry.4.6.0.nupkg.sha512",
+    "C:\\Users\\Moslem\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
     "C:\\Users\\Moslem\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Moslem\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\Moslem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

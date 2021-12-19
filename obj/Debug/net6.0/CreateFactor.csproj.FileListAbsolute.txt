@@ -346,5 +346,6 @@ C:\Users\Moslem\source\repos\CreateFactor\CreateFactor\obj\Debug\net6.0\CreateFa
 C:\Users\Moslem\source\repos\CreateFactor\CreateFactor\obj\Debug\net6.0\ref\CreateFactor.dll
 C:\Users\Moslem\source\repos\CreateFactor\CreateFactor\obj\Debug\net6.0\CreateFactor.pdb
 C:\Users\Moslem\source\repos\CreateFactor\CreateFactor\obj\Debug\net6.0\CreateFactor.genruntimeconfig.cache
-C:\Users\Moslem\source\repos\CreateFactor\CreateFactor\obj\Debug\net6.0\CreateFactor.csproj.AssemblyReference.cache
 C:\Users\Moslem\source\repos\CreateFactor\CreateFactor\bin\Debug\net6.0\CreateFactor.staticwebassets.runtime.json
+C:\Users\Moslem\source\repos\CreateFactor\CreateFactor\obj\Debug\net6.0\CreateFactor.csproj.AssemblyReference.cache
+C:\Users\Moslem\source\repos\CreateFactor\CreateFactor\bin\Debug\net6.0\QRCoder.dll

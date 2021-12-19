@@ -23,5 +23,14 @@
                 return false;
             }
         }
+
+
+        public void SaveBytesToFile(Byte[] byteArray, string fileName)
+        {
+            FileStream fileStream = new FileStream(fileName, FileMode.Create, FileAccess.ReadWrite);
+            fileStream.Write(byteArray, 0, byteArray.Length);
+            fileStream.Close();
+        }
+
     }
 }

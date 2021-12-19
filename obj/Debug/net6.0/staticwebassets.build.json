@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lWb9zumXN+1vUBNrbsQsAl8Q5mhijyH/3ggl29Vbdu4=",
+  "Hash": "JDoOpHrTCF3pNyV0D6knNEngjVHJcDPyTSUmUZl2Qtc=",
   "Source": "CreateFactor",
   "BasePath": "_content/CreateFactor",
   "Mode": "Default",
@@ -15,5 +15,74 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Moslem\\source\\repos\\CreateFactor\\CreateFactor\\wwwroot\\mypdf.pdf",
+      "SourceId": "CreateFactor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moslem\\source\\repos\\CreateFactor\\CreateFactor\\wwwroot\\",
+      "BasePath": "_content/CreateFactor",
+      "RelativePath": "mypdf.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mypdf.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Moslem\\source\\repos\\CreateFactor\\CreateFactor\\wwwroot\\qr1.png",
+      "SourceId": "CreateFactor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moslem\\source\\repos\\CreateFactor\\CreateFactor\\wwwroot\\",
+      "BasePath": "_content/CreateFactor",
+      "RelativePath": "qr1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\qr1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Moslem\\source\\repos\\CreateFactor\\CreateFactor\\wwwroot\\test.png",
+      "SourceId": "CreateFactor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moslem\\source\\repos\\CreateFactor\\CreateFactor\\wwwroot\\",
+      "BasePath": "_content/CreateFactor",
+      "RelativePath": "test.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\test.png"
+    },
+    {
+      "Identity": "C:\\Users\\Moslem\\source\\repos\\CreateFactor\\CreateFactor\\wwwroot\\wkhtmltopdf\\windows\\wkhtmltopdf.exe",
+      "SourceId": "CreateFactor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moslem\\source\\repos\\CreateFactor\\CreateFactor\\wwwroot\\",
+      "BasePath": "_content/CreateFactor",
+      "RelativePath": "wkhtmltopdf/windows/wkhtmltopdf.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\wkhtmltopdf\\windows\\wkhtmltopdf.exe"
+    }
+  ]
 }
